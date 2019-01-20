@@ -15,7 +15,8 @@
     "start": "npm run build && node dist/bundle.js"
   },
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "word-list": "^2.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
