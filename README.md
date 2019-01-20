@@ -27,7 +27,7 @@ $ cd number-cruncher/web && npm install
 $ cd ../api && npm install
 ```
 
-3. Run api server
+3. Run api server:
 
 ```
 $ npm run dev
