@@ -33,7 +33,7 @@ $ cd ../api && npm install
 $ npm run dev
 ```
 
-1. Open a new terminal tab and run the website:
+4. Open a new terminal tab and run the website:
 
 ```
 $ cd ../web
